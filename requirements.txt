@@ -1,0 +1,10 @@
+torch>=2.0
+torchvision>=0.15
+scikit-learn
+scipy
+pandas
+matplotlib
+fastapi
+uvicorn
+pillow
+python-multipart

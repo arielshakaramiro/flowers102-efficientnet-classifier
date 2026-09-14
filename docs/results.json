@@ -1,0 +1,13 @@
+{
+  "dataset": "Oxford Flowers 102",
+  "backbone": "EfficientNet-B1 (ImageNet pretrained)",
+  "num_epochs": 15,
+  "best_val_accuracy": 0.8941176470588236,
+  "best_val_epoch": 8,
+  "test_accuracy": 0.879492600422833,
+  "test_precision_weighted": 0.8975673497883163,
+  "test_recall_weighted": 0.879492600422833,
+  "trainable_parameters": 130662,
+  "total_parameters": 6643846,
+  "verified_on": "Google Colab (GPU, CUDA)"
+}
