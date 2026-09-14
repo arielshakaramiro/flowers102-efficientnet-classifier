@@ -1,0 +1,21 @@
+# Dataset (downloaded at runtime, not versioned)
+flowers102/
+*.tgz
+*.mat
+
+# Model weights (always excluded from git)
+checkpoints/
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
